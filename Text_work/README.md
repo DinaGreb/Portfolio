@@ -1,6 +1,6 @@
 # Анализ текстов
 
-[ipynb](https://github.com/DinaGreb/Portfolio/blob/main/Text_work/Project3%20textwork.ipynb)
+[ipynb](https://github.com/DinaGreb/Portfolio/blob/main/Text_work/Toxic_comments.ipynb)
 
 ## Описание проекта
 
