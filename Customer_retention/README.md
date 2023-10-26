@@ -1,6 +1,6 @@
 # Прогноз оттока клиентов
 
- [ipynb](https://github.com/DinaGreb/Portfolio/blob/e421d25c9edd3f8c153a92f39ecaf8f8063ffbff/Customer_retention/Project1%20internetservice.ipynb)
+ [ipynb](https://github.com/DinaGreb/Portfolio/blob/main/Customer_retention/%D0%A1ustomer_retention.ipynb)
 
 ## Описание проекта
 
