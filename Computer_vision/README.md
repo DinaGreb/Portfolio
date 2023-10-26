@@ -1,6 +1,6 @@
 # Определение возраста покупателей по фото
 
- [ipynb](https://github.com/DinaGreb/Portfolio/blob/main/Computer_vision/Project2_vision_for_shop.ipynb)
+ [ipynb](https://github.com/DinaGreb/Portfolio/blob/main/Computer_vision/Vision_of_age.ipynb)
 
 ## Описание проекта
 
